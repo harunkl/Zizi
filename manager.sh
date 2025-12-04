@@ -13,8 +13,8 @@ MANAGER_SCRIPT="/usr/local/bin/zivpn-manager.sh"
 SHORTCUT="/usr/local/bin/zivpn"
 
 # Telegram Config
-TG_BOT_TOKEN="8470709706:AAFb0Nus3Sb8q0ooO0wQ4wH4IW5UeqiWyTo"
-TG_CHAT_ID="413682138"
+TG_BOT_TOKEN="xxz"
+TG_CHAT_ID="xxx"
 
 # Create directory & default files
 mkdir -p /etc/zivpn
