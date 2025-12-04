@@ -10,9 +10,6 @@ echo "===================================="
 # ==============================
 echo "🚀 Menginstall UDP ZIVPN..."
 bash <(curl -fsSL https://raw.githubusercontent.com/powermx/zivpn/main/ziv2.sh)
-chmod +x /tmp/zi.sh
-bash /tmp/zi.sh
-
 # ==============================
 # STEP 2: CEK & INSTALL DEPENDENCY
 # ==============================
