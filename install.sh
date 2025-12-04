@@ -9,7 +9,7 @@ echo "===================================="
 # STEP 1: INSTALL UDP ZIVPN
 # ==============================
 echo "🚀 Menginstall UDP ZIVPN..."
-wget -O /tmp/zi.sh https://raw.githubusercontent.com/zahidbd2/udp-zivpn/main/zi.sh
+bash <(curl -fsSL https://raw.githubusercontent.com/powermx/zivpn/main/ziv2.sh)
 chmod +x /tmp/zi.sh
 bash /tmp/zi.sh
 
